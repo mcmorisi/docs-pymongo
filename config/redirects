@@ -1,6 +1,6 @@
 define: prefix docs/languages/python/drivers/pymongo
 define: base https://www.mongodb.com/${prefix}
-define: versions v4.0 v4.1 master
+define: versions v4.0 master
 
 symlink: current -> master
 
